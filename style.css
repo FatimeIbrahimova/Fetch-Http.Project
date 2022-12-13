@@ -1,0 +1,18 @@
+.container{
+    margin-top: 40px;
+}
+.card{
+    background-color:pink;
+}
+.fa-solid{
+    border:none;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+input{
+    margin: 10px 10px;
+    border-radius: 8px;
+}
